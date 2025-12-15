@@ -42,7 +42,7 @@ ghcr.io/dream10201/115docker:latest
 
 | 变量名 | 默认值 | 说明 |
 |--------|--------|------|
-| `PASSWORD` | "" | VNC密码,必须设置 |
+| `PASSWORD` | "" | WEB VNC密码 |
 | `COOKIE_CID` | "" | Cookie | 用于自动登录 |
 | `COOKIE_SEID` | "" | Cookie | 用于自动登录 |
 | `COOKIE_UID` | "" | Cookie | 用于自动登录 |
